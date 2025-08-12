@@ -3,3 +3,4 @@ Second commit changes
 Third commit changes filter
 Fourth commit changes filter
 sixth commit changes filter
+seventh commit changes filter
